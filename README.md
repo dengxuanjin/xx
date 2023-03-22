@@ -5,3 +5,4 @@
 ![image](https://user-images.githubusercontent.com/94524168/226938373-51ce429d-78da-4343-8d42-702d59813647.png)
 
 左上角有分数
+使用时可能还需要更改背景图片的地址
